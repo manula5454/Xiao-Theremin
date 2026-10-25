@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmvmvs7yp03ro01no1uz2vn4v). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A XIAO based theremin made using two antennas and a very simple circuit
+> I found a theremin quite difficult to make with oscillators etc. So instead I'm using a XIAO RP2040 to make a theremin. This is actually cheaper than the raw components of a theremin and simply detects hand movements as changes in capacitance which can then be translated to distinct pitch and volume frequencies.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
