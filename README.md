@@ -26,6 +26,9 @@ This project was made with a XIAO RP2040 to mitigate JFET's and oscillators by l
 4. Install the project's dependencies (e.g. Seeed XIAO arduino library for boards and for Kicad symbols and footprints)
 
 
+See [BOM.csv](https://github.com/manula5454/Xiao-Theremin/blob/b5410aa2bbd76c101f2238aac3671099105f34f5/BOM.csv) for parts list!
+
+
 ## AI DISCLOSURE
 what did you use ai for on this project? for example for this site:
 ai was used to copy css styling from template screenshots
